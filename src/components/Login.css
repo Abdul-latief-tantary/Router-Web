@@ -1,0 +1,28 @@
+body{
+    margin-top: 2rem;
+    padding: 2rem;
+}
+ .login-page{
+
+  text-align: center;
+  padding: 50px;
+  background-color:rgb(44, 192, 143);
+}
+
+.login-form{
+    background-color:yellow;
+    padding: 20px;
+    margin: auto;
+    border: 1px solid ;
+    border-radius: 10px;
+    max-width:400px;
+    box-shadow:  0 0 10px;
+    color: red;
+}
+.form-group{
+     margin-bottom: 20px;
+}
+.form-group label{
+     display: block;
+     margin-bottom: 5px;
+}

@@ -1,0 +1,40 @@
+body{
+    margin-top:2rem;
+    padding: 2rem;
+}
+.auth-page{
+    text-align: center;
+    padding: 50px;
+    background-color:aquamarine ;
+
+}
+.auth-page h1{
+     font-size: 2em;
+      margin-bottom: 20px;
+
+}
+.form-group{
+     margin-bottom: 15px;
+}
+.form-group label{
+    display:block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.form-group input{
+     width:30%;
+     padding: 10px;
+     border:1px solid;
+      border-radius: 5px;
+}
+.auth-button{
+     padding: 10px 20px;
+      font-size:1em;
+   background-color: white;
+   color:red;
+    cursor:pointer;
+
+}
+.auth-button:hover{
+    background-color: black;
+}
